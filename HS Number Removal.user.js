@@ -6,7 +6,6 @@
 // @author       Z.Kitcher
 // @match        https://www.hamiltonservices.com/Web/LoyaltyAccount
 // @icon         https://www.hamiltonservices.com/Web/Content/favicon.svg
-// @include      https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // ==/UserScript==
 
 (function() {
