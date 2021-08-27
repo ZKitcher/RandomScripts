@@ -11,5 +11,5 @@
 
 (function() {
     'use strict';
-    $('[name="quickValue"]').css('display','none')
+    $('[name="quickValue"], #activeUsers, #creditHold, #endBilling, #totalUsers').css('display','none')
 })();
