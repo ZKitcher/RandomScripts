@@ -4,8 +4,8 @@
 // @version      0.0.1
 // @description  Removes the large quicksort numbers from HS.
 // @author       Z.Kitcher
-// @match        https://www.hamiltonservices.com/Web/LoyaltyAccount
-// @icon         https://www.hamiltonservices.com/Web/Content/favicon.svg
+// @match        https://www.hamiltonservices.com/web/LoyaltyAccount
+// @icon         https://www.hamiltonservices.com/web/Content/favicon.svg
 // ==/UserScript==
 
 (function() {
