@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HS Number Removal
 // @namespace    https://www.hamiltonservices.com/
-// @version      0.0.1
+// @version      0.0.2
 // @description  Removes the large quicksort numbers from HS.
 // @author       Z.Kitcher
 // @match        https://www.hamiltonservices.com/web/LoyaltyAccount
